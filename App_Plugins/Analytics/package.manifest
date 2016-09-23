@@ -1,0 +1,10 @@
+﻿{
+  javascript: [
+    "https://www.gstatic.com/charts/loader.js",
+    "~/App_Plugins/Analytics/js/geomapDashboard.js",
+    "~/App_Plugins/Analytics/js/webapiService.js",
+    "~/App_Plugins/Analytics/js/countryService.js",
+    "~/App_Plugins/Analytics/js/directives/browserchart/browserchart.directive.js",
+    "~/App_Plugins/Analytics/js/directives/oschart/oschart.directive.js"
+  ]
+}
